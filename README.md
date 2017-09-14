@@ -4,10 +4,14 @@ This is a simple template project for the Microsoft bot framework. You are free 
 
 ## Get Started
 
+Prerequisite:
+* NodeJS LTS [Obtain it here](https://nodejs.org/en/download/)
+* Yarn [Obtain it here](https://yarnpkg.com/en/docs/install)
+
 1. Clone the GitHub project `$ git clone https://github.com/lpsimon/BotFrameworkTemplate.git`
 2. Switch into the freshly cloned folder `$ cd BotFrameworkTemplate`
-3. Install dependencies `$ yarn install` or `$ npm install`
-4. Start the BotTemplate `$ yarn start` or `$ npm start`
+3. Install dependencies `$ yarn install`
+4. Start the BotTemplate `$ yarn start`
 5. Connect to the bot using [Bot Framework Emulator](https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator)
 6. Have Fun extending the functionality
 
